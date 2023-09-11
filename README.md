@@ -29,8 +29,8 @@ A count plot was used to visualize the data and understand different items in th
 ## Splitting the data
 
 The data was split in the ratio of 0.7 for the training and 0.3 for the testing.
-The independent variable comprised every variable except the **Class** variable,
-whereas the dependent variable only contained the **Class** variable.
+The independent variable comprised every variable except the *Class* variable,
+whereas the dependent variable only contained the *Class* variable.
 
 Applying the model, prediction, and results
 After fitting the models, a prediction error of 27.67% was realized for the LR and 23.40% for the SVM.
