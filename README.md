@@ -46,5 +46,6 @@ The training process was terminated after lowering the loss function to as low a
 Classification accuracy for hold-out test: 0.7529
 
 *Part 4&5:*
+
 a. To avoid overfitting of the model, cross-validation was applied, in which multiple mini train-test splits were used to fine-tune the model.
 b. The extended accuracy: Though not much accuracy was extended, at least the model was able to achieve a 0.7927 accuracy after several methods were used to avoid overfitting.
