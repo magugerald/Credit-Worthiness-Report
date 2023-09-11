@@ -1,6 +1,6 @@
 # Logistic Regression and Support Vector Machine Algorithms on Credit Worthiness Report
 
-The project focuses on applying Logistic Regression (LR) and Support Vector Machine (SVM) algorithms to predict the classification of individuals based on their creditworthiness report. Utilizing various features such as Age, Sex, Job, Housing, Saving accounts, Checking account, Credit amount, and Duration, the study aims to determine the most effective model for this prediction task. By evaluating and comparing the loss function of both LR and SVM, the project seeks to identify the optimal algorithm for accurately categorizing individuals' creditworthiness.
+The project focuses on applying Logistic Regression (LR) and Support Vector Machine (SVM) algorithms to predict the classification of individuals based on their creditworthiness report. Utilizing various features such as Age, Sex, Job, Housing, Saving accounts, Checking account, Credit amount, and Duration, the study aims to determine the most effective model for this prediction. By evaluating and comparing the loss function of both LR and SVM, the project seeks to identify the optimal algorithm for accurately categorizing individuals' creditworthiness.
 
 ## Demonstration
 
